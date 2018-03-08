@@ -1,5 +1,5 @@
-# projcursogit
-Projeto do Curso git (code.education)
+# PROJETO "FAZENDO O PRIMEIRO PUSH"
+###Projeto do Curso git (code.education)
 
 1. Criação do repositório;
 
